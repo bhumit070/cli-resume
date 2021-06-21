@@ -1,0 +1,12 @@
+{
+  "name": "bhoomit-resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "inquirer": "^8.1.0"
+  }
+}
